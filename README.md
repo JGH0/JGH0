@@ -1,67 +1,22 @@
-```console
-jgh0@github:~$ fastfetch
-```
+# JGH0
 
-```
- _____________________________________
-< Welcome to my personal github page! >
- ------------------------------------- 
-        /\       
-       /  \      
-      /\   \     
-     / > ω <\    
-    /   __   \   
-   / __|  |__-\  
-  /_-''    ''-_\  
-```
+Systems developer focused on minimal, functional software.
 
-<img align="left" src="https://github.com/xqi1337/xqi1337/blob/main/cropped.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
+## Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![ASP Classic](https://img.shields.io/badge/-ASP%20Classic-5E5E5E?logo=dotnet&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=archlinux&logoColor=white)
+![Fish Shell](https://img.shields.io/badge/-Fish%20Shell-4AAE73?logo=fish&logoColor=white)
+![i3WM](https://img.shields.io/badge/-i3WM-1C1C1C?logo=i3&logoColor=white)
 
-```csharp
-jgh0@github
--------------------------
-OS: Arch Linux x86_64
-Shell: fish 4.4.0
-Pronouns: Walmart bag
-Languages: Java, ASP Classic
-Learning: Linux Server, Networking
-Hobbies: Cooking, Gaming
-Interests: Sys Administration & IT-Sec
+## Projects
 
+### [jtop](https://github.com/JGH0/jtop)
+Lightweight system monitor for Linux. Minimal interface showing CPU, memory, and process information without unnecessary features. Fast and efficient.
 
+### [AsciiCardForge](https://github.com/JGH0/AsciiCardForge)
+Java library for ASCII card generation. Designed to be cloned and integrated into other projects. Provides simple methods for creating playing cards in terminal applications.
 
-
-
-```
-
-
-<p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img alt="#917b88" src="https://raw.githubusercontent.com/xqi1337/xqi1337/main/img/917b88.png" width="25" height="20" /><img alt="#fdfef6" src="https://raw.githubusercontent.com/xqi1337/xqi1337/main/img/fdfef6.png" width="25" height="20" /><img alt="#91bebb" src="https://raw.githubusercontent.com/xqi1337/xqi1337/main/img/91bebb.png" width="25" height="20" /><img alt="#feb2bf" src="https://raw.githubusercontent.com/xqi1337/xqi1337/main/img/feb2bf.png" width="25" height="20" /><img alt="#95e3ed" src="https://raw.githubusercontent.com/xqi1337/xqi1337/main/img/95e3ed.png" width="25" height="20" />
-</p>
-
-```console
-jgh0@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/crontab$$
-```
-
-```
-[sudo] Password for jgh0:
-
-CATching bugs in code...
-                              
-                                            oOOOOOOOOOOOOOOoo..
-                                             """""""""""OOOOOOOOo.  [me]
-                                           ..oooooooo..    `""OOOOO.
-                                       .oOOOOOOOOOOOOOOOOo     OOOOO
-                     ..ooOOOOOOo..oooOOOOOOOOOOOOOOOOOOOOOOoooOOOOO'
-            .Oo...ooOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO"'
-        .oooOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO"~~
-          \oOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO'
-           OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOoOOOOOOOOOOOOOOO'
-          __\OO/"    "OOOOOOOOOOOOOOOOOOOO`OOOOOOOOOOOOO"
-            /|\   .oOOooo- `OOOOOOOO""   .O`OOOOOOOOOO'
-               .oOOOO"~    .OOOOO'      QQOOO`OOOOOOOOOo
-   [bug]   -QQOOO"~       .OOOOO'                 `OOOOO
-                         .OOOO'                  QQQQO"
-                       QQQQO"
-```
+### [MyI3Config](https://github.com/JGH0/MyI3Config)
+Minimal i3 configuration for Arch Linux. Clean, functional setup with essential keybindings and workspace management. No bloat, just what's needed.
