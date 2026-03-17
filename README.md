@@ -1,6 +1,6 @@
 # JGH0
 
-Systems developer focused on minimal, functional software.
+Application developer focused on minimal, functional software.
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
