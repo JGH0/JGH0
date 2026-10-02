@@ -1,6 +1,7 @@
 # JGH0
 
 Application developer focused on minimal, functional software.
+
 "If you split even a big project into baby steps, you can solve anything."
 
 ## Tech Stack
